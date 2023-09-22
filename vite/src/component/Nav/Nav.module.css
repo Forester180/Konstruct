@@ -1,6 +1,6 @@
 .section_img {
     background-image: url('../../../public/images/header-img.jpg');
-    /* background-size: cover; */
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
 }
