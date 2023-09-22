@@ -1,0 +1,22 @@
+.wrapper_links {
+    display: flex;
+}
+
+.links_one,
+.links_two,
+.links_three {
+   max-width: 80px; 
+   margin-right: 48px;
+   color: #fff;
+}
+
+.links_three {
+    margin-right: 0;
+}
+
+@media (max-width: 785px) {
+    .links_one,
+    .links_two {
+        margin-right: 20px;
+}
+}

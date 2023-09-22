@@ -1,0 +1,15 @@
+.nav_link {
+  font-family: "OpenSans SemiBold";
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  display: flex;
+  color: #48555b;
+}
+
+.nav_link:hover {
+  color: #79a8bc;
+}
+.nav_link:active {
+  color: #00a4e5;
+}

@@ -1,0 +1,22 @@
+.footer_link {
+    font-family: "OpenSans SemiBold";
+    font-size: 11px;
+    font-weight: 600;
+    text-decoration: none;
+    display: flex;
+    color: #fff;
+    line-height: 25px;
+  }
+  
+  .footer_link:hover {
+    color: #79a8bc;
+  }
+  .footer_link:active {
+    color: #00a4e5;
+  }
+
+  @media (max-width: 610px) {
+    .footer_link {
+      line-height: 15px;
+    }
+  }

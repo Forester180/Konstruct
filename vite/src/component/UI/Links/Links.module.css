@@ -1,0 +1,21 @@
+.wrapper_link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00A4E5;
+    width: 150px;
+    height: 40px;
+    transition: 0.3s;
+    
+}
+
+.wrapper_link:hover {
+    background-color: #51bee9;
+    transform: scale(0.97);
+    transition: 0.3s;
+}
+
+.our_link {
+    color: #fff;
+    text-decoration: none;
+}
